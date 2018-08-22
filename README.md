@@ -1,0 +1,1 @@
+Encoding/decoding functions for gray codes (minimal distance codes). C version.
