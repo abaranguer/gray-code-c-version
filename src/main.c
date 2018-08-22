@@ -123,4 +123,3 @@ char *bitsToString(int *bits, int numBits) {
 
 	return charBits;
 }
-
